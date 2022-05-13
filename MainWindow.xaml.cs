@@ -67,7 +67,7 @@ namespace WpfGameXO
             {
                 if (mat[row , col+1] == num)
                     if (mat[row , col+2] == num)
-                            MessageBox.Show("you winer!!!!!!!!!👍✨✨✨✨✨✨✨");
+                            MessageBox.Show("you winer!!!!!!!!!👍✨✨✨✨✨✨");
             }
             
 
